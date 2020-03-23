@@ -80,7 +80,7 @@ displayBlogPost=(posts)=>{
     return(
       <div className='app'>
         <h2>
-         Welcome to my App 
+         Welcome to my best App ever
         </h2>
         <form onSubmit={this.submit}>
           <div className='form-input'>
